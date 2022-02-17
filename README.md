@@ -1,20 +1,20 @@
-### Hi there 👋
+Hi 👋, I'm Angga Ady Pratama
+============================
 
-<!--
-**anggaadypratama/anggaadypratama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A passionate frontend developer from Indonesia. but I'm not only want to be frontend dev. now I'm still learning to be backend, mobile or VR/AR/XR developer
 
-Here are some ideas to get you started:
+![anggaadypratama](https://komarev.com/ghpvc/?username=anggaadypratama&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🔭 I’m currently studying in Telkom University
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anggaadypratama&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anggaadypratama&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![anggaadypratama](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/anggaadypratama) [![anggaadypratama](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/anggaadypratama)
 
+### Languages and Tools:
+
+ [![babel](https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg)](https://babeljs.io/)[![bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg) ](https://getbootstrap.com)[![csharp](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg) ](https://www.w3schools.com/cs/)[![css3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) ](https://www.w3schools.com/css/)[![dart](https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg) ](https://dart.dev)[![docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg) ](https://www.docker.com/)[![express](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg) ](https://expressjs.com)[![figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg) ](https://www.figma.com/)[![flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg) ](https://flutter.dev)[![git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) ](https://git-scm.com/)[![heroku](https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg) ](https://heroku.com)[![html5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) ](https://www.w3.org/html/)[![illustrator](https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg) ](https://www.adobe.com/in/products/illustrator.html)[![javascript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) ](https://developer.mozilla.org/en-US/docs/Web/JavaScript)[![linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg) ](https://www.linux.org/)[![mongodb](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg) ](https://www.mongodb.com/)[![mysql](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg) ](https://www.mysql.com/)[![nextjs](https://cdn.worldvectorlogo.com/logos/nextjs-2.svg) ](https://nextjs.org/)[![nodejs](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg) ](https://nodejs.org)[![photoshop](https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg) ](https://www.photoshop.com/en)[![php](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg) ](https://www.php.net)[![postgresql](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg) ](https://www.postgresql.org)[![postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg) ](https://postman.com)[![react](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) ](https://reactjs.org/)[![reactnative](https://reactnative.dev/img/header_logo.svg) ](https://reactnative.dev/)[![redis](https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg) ](https://redis.io)[![ruby](https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg) ](https://www.ruby-lang.org/en/)[![sass](https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg) ](https://sass-lang.com)[![svelte](https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg) ](https://svelte.dev)[![tailwind](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg) ](https://tailwindcss.com/)[![typescript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg) ](https://www.typescriptlang.org/)[![unity](https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg) ](https://unity.com/)[![webpack](https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg) ](https://webpack.js.org)[![xd](https://cdn.worldvectorlogo.com/logos/adobe-xd.svg)](https://www.adobe.com/products/xd.html)
+
+![anggaadypratama](https://github-readme-stats.vercel.app/api/top-langs?username=anggaadypratama&show_icons=true&locale=en&layout=compact)
+
+ ![anggaadypratama](https://github-readme-stats.vercel.app/api?username=anggaadypratama&show_icons=true&locale=en)
+
+![anggaadypratama](https://github-readme-streak-stats.herokuapp.com/?user=anggaadypratama&)
