@@ -16,7 +16,7 @@
 
 
 
-<table>
+<table style="border: none">
 <thead>
   <tr>
     <td>
