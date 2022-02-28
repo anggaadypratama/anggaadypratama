@@ -19,10 +19,10 @@
 <table style="border: none">
 <thead>
   <tr>
-    <td>
+    <td style="border: none">
        <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anggaadypratama&show_icons=true&locale=en&layout=compact" alt="anggaadypratama" /></p>
     </td>
-    <td>
+    <td style="border: none">
       <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anggaadypratama&show_icons=true&locale=en" alt="anggaadypratama" /></p>
     </td>
   </tr>
