@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Angga Ady Pratama</h1>
-<h3 align="center">A passionate frontend developer from Indonesia. but I'm looking forward for another skills. now I'm still learning to be backend, mobile or VR/AR/XR developer</h3>
+<h3 align="center">A passionate frontend developer from Indonesia. but I'm looking forward for another skills. now I'm still learn backend, mobile or VR/AR/XR development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anggaadypratama&label=Profile%20views&color=0e75b6&style=flat" alt="anggaadypratama" /> </p>
 
