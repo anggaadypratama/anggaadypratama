@@ -31,6 +31,11 @@
 </details>
 
 <details>
+  <summary>Most Used Language</summary>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anggaadypratama&layout=compact">
+</details>
+
+<details>
   <summary>My Wakatime breakdown</summary>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=anggaadypratama&layout=compact">
 </details>
