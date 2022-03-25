@@ -19,6 +19,8 @@
    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
    <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
       <br>
+      <br>
+   
       <p>Hi there, I'm Angga Ady Pratama a Front end developer from Indonesia. Even I'm a front end developer I still learning and looking forward to be backend, mobile or AR/VR/XR developer</p>
 </div>
 
