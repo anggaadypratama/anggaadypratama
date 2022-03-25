@@ -9,5 +9,5 @@
 
 <details>
   <summary>My Wakatime breakdown</summary>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=anggaadypratama&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=anggaadypratama@outlook.com&layout=compact">
 </details>
