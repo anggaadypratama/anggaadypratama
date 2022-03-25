@@ -30,3 +30,8 @@
 <!--   <img src="https://github-profile-trophy.vercel.app/?username=anggaadypratama"> -->
 </details>
 
+<details>
+  <summary>My Wakatime breakdown</summary>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=anggaadypratama&layout=compact">
+</details>
+
