@@ -26,17 +26,17 @@
 
 <details>
   <summary>My stats in Github</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=anggaadypratama&show_icons=true&bg_color=272D3F&text_color=A2ABCF&title_color=B8E981&icon_color=FFC758">
+  <img src="https://github-readme-stats.vercel.app/api?username=anggaadypratama&show_icons=true&bg_color=272D3F&text_color=A2ABCF&title_color=D18EF0&icon_color=FFC758">
 <!--   <img src="https://github-profile-trophy.vercel.app/?username=anggaadypratama"> -->
 </details>
 
 <details>
   <summary>Most Used Language</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anggaadypratama&layout=compact&bg_color=272D3F&text_color=A2ABCF&title_color=B8E981&icon_color=FFC758">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anggaadypratama&layout=compact&bg_color=272D3F&text_color=A2ABCF&title_color=D18EF0&icon_color=FFC758">
 </details>
 
 <details>
   <summary>My Wakatime breakdown</summary>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=anggaadypratama&layout=compact&bg_color=272D3F&text_color=A2ABCF&title_color=B8E981&icon_color=FFC758">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=anggaadypratama&layout=compact&bg_color=272D3F&text_color=A2ABCF&title_color=D18EF0&icon_color=FFC758">
 </details>
 
