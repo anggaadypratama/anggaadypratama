@@ -32,11 +32,11 @@
 
 <details>
   <summary>Most Used Language</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anggaadypratama&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anggaadypratama&layout=compact&bg_color=272D3F&text_color=D18FF0&title_color=B8E981&icon_color=FFC758">
 </details>
 
 <details>
   <summary>My Wakatime breakdown</summary>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=anggaadypratama&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=anggaadypratama&layout=compact&bg_color=272D3F&text_color=D18FF0&title_color=B8E981&icon_color=FFC758">
 </details>
 
