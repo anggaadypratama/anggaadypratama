@@ -26,7 +26,7 @@
 
 <details>
   <summary>My stats in Github</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=anggaadypratama&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=anggaadypratama&show_icons=true&theme=onedark">
 <!--   <img src="https://github-profile-trophy.vercel.app/?username=anggaadypratama"> -->
 </details>
 
